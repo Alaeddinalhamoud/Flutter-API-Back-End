@@ -1,0 +1,12 @@
+C:\Users\Alaeddin\source\repos\StudentsWebApp\Students.Data\bin\Debug\netstandard2.0\Students.Data.deps.json
+C:\Users\Alaeddin\source\repos\StudentsWebApp\Students.Data\bin\Debug\netstandard2.0\Students.Data.dll
+C:\Users\Alaeddin\source\repos\StudentsWebApp\Students.Data\bin\Debug\netstandard2.0\Students.Data.pdb
+C:\Users\Alaeddin\source\repos\StudentsWebApp\Students.Data\bin\Debug\netstandard2.0\System.ComponentModel.Annotations.dll
+C:\Users\Alaeddin\source\repos\StudentsWebApp\Students.Data\bin\Debug\netstandard2.0\System.ComponentModel.Annotations.xml
+C:\Users\Alaeddin\source\repos\StudentsWebApp\Students.Data\obj\Debug\netstandard2.0\Students.Data.csprojAssemblyReference.cache
+C:\Users\Alaeddin\source\repos\StudentsWebApp\Students.Data\obj\Debug\netstandard2.0\Students.Data.csproj.CoreCompileInputs.cache
+C:\Users\Alaeddin\source\repos\StudentsWebApp\Students.Data\obj\Debug\netstandard2.0\Students.Data.AssemblyInfoInputs.cache
+C:\Users\Alaeddin\source\repos\StudentsWebApp\Students.Data\obj\Debug\netstandard2.0\Students.Data.AssemblyInfo.cs
+C:\Users\Alaeddin\source\repos\StudentsWebApp\Students.Data\obj\Debug\netstandard2.0\Students.Data.csproj.CopyComplete
+C:\Users\Alaeddin\source\repos\StudentsWebApp\Students.Data\obj\Debug\netstandard2.0\Students.Data.dll
+C:\Users\Alaeddin\source\repos\StudentsWebApp\Students.Data\obj\Debug\netstandard2.0\Students.Data.pdb
