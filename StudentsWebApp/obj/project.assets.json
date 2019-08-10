@@ -12998,11 +12998,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Alaeddin\\Source\\Repos\\alaeddinalhamoud\\StudentsWebApp\\StudentsWebApp.csproj",
+      "projectUniqueName": "C:\\Users\\Alaeddin\\Source\\Repos\\StudentAPI\\StudentsWebApp\\StudentsWebApp.csproj",
       "projectName": "StudentsWebApp",
-      "projectPath": "C:\\Users\\Alaeddin\\Source\\Repos\\alaeddinalhamoud\\StudentsWebApp\\StudentsWebApp.csproj",
+      "projectPath": "C:\\Users\\Alaeddin\\Source\\Repos\\StudentAPI\\StudentsWebApp\\StudentsWebApp.csproj",
       "packagesPath": "C:\\Users\\Alaeddin\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Alaeddin\\Source\\Repos\\alaeddinalhamoud\\StudentsWebApp\\obj\\",
+      "outputPath": "C:\\Users\\Alaeddin\\Source\\Repos\\StudentAPI\\StudentsWebApp\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -13021,8 +13021,8 @@
       "frameworks": {
         "netcoreapp2.2": {
           "projectReferences": {
-            "C:\\Users\\Alaeddin\\Source\\Repos\\alaeddinalhamoud\\Students.Repository\\Students.Repository.csproj": {
-              "projectPath": "C:\\Users\\Alaeddin\\Source\\Repos\\alaeddinalhamoud\\Students.Repository\\Students.Repository.csproj"
+            "C:\\Users\\Alaeddin\\Source\\Repos\\StudentAPI\\Students.Repository\\Students.Repository.csproj": {
+              "projectPath": "C:\\Users\\Alaeddin\\Source\\Repos\\StudentAPI\\Students.Repository\\Students.Repository.csproj"
             }
           }
         }

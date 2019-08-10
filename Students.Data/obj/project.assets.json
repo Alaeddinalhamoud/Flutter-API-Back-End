@@ -184,11 +184,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Alaeddin\\Source\\Repos\\alaeddinalhamoud\\Students.Data\\Students.Data.csproj",
+      "projectUniqueName": "C:\\Users\\Alaeddin\\Source\\Repos\\StudentAPI\\Students.Data\\Students.Data.csproj",
       "projectName": "Students.Data",
-      "projectPath": "C:\\Users\\Alaeddin\\Source\\Repos\\alaeddinalhamoud\\Students.Data\\Students.Data.csproj",
+      "projectPath": "C:\\Users\\Alaeddin\\Source\\Repos\\StudentAPI\\Students.Data\\Students.Data.csproj",
       "packagesPath": "C:\\Users\\Alaeddin\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Alaeddin\\Source\\Repos\\alaeddinalhamoud\\Students.Data\\obj\\",
+      "outputPath": "C:\\Users\\Alaeddin\\Source\\Repos\\StudentAPI\\Students.Data\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

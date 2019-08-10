@@ -12,3 +12,17 @@ C:\Users\Alaeddin\source\repos\StudentsWebApp\Students.Repository\bin\Debug\nets
 C:\Users\Alaeddin\source\repos\StudentsWebApp\Students.Repository\obj\Debug\netstandard2.0\Students.Repository.csproj.CopyComplete
 C:\Users\Alaeddin\source\repos\StudentsWebApp\Students.Repository\obj\Debug\netstandard2.0\Students.Repository.dll
 C:\Users\Alaeddin\source\repos\StudentsWebApp\Students.Repository\obj\Debug\netstandard2.0\Students.Repository.pdb
+C:\Users\Alaeddin\Source\Repos\StudentAPI\Students.Repository\bin\Debug\netstandard2.0\Students.Repository.deps.json
+C:\Users\Alaeddin\Source\Repos\StudentAPI\Students.Repository\bin\Debug\netstandard2.0\Students.Repository.dll
+C:\Users\Alaeddin\Source\Repos\StudentAPI\Students.Repository\bin\Debug\netstandard2.0\Students.Repository.pdb
+C:\Users\Alaeddin\Source\Repos\StudentAPI\Students.Repository\bin\Debug\netstandard2.0\Students.Data.dll
+C:\Users\Alaeddin\Source\Repos\StudentAPI\Students.Repository\bin\Debug\netstandard2.0\Students.Services.dll
+C:\Users\Alaeddin\Source\Repos\StudentAPI\Students.Repository\bin\Debug\netstandard2.0\Students.Data.pdb
+C:\Users\Alaeddin\Source\Repos\StudentAPI\Students.Repository\bin\Debug\netstandard2.0\Students.Services.pdb
+C:\Users\Alaeddin\Source\Repos\StudentAPI\Students.Repository\obj\Debug\netstandard2.0\Students.Repository.csprojAssemblyReference.cache
+C:\Users\Alaeddin\Source\Repos\StudentAPI\Students.Repository\obj\Debug\netstandard2.0\Students.Repository.csproj.CoreCompileInputs.cache
+C:\Users\Alaeddin\Source\Repos\StudentAPI\Students.Repository\obj\Debug\netstandard2.0\Students.Repository.AssemblyInfoInputs.cache
+C:\Users\Alaeddin\Source\Repos\StudentAPI\Students.Repository\obj\Debug\netstandard2.0\Students.Repository.AssemblyInfo.cs
+C:\Users\Alaeddin\Source\Repos\StudentAPI\Students.Repository\obj\Debug\netstandard2.0\Students.Repository.csproj.CopyComplete
+C:\Users\Alaeddin\Source\Repos\StudentAPI\Students.Repository\obj\Debug\netstandard2.0\Students.Repository.dll
+C:\Users\Alaeddin\Source\Repos\StudentAPI\Students.Repository\obj\Debug\netstandard2.0\Students.Repository.pdb

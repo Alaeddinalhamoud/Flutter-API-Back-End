@@ -200,11 +200,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Alaeddin\\Source\\Repos\\alaeddinalhamoud\\Students.Services\\Students.Services.csproj",
+      "projectUniqueName": "C:\\Users\\Alaeddin\\Source\\Repos\\StudentAPI\\Students.Services\\Students.Services.csproj",
       "projectName": "Students.Services",
-      "projectPath": "C:\\Users\\Alaeddin\\Source\\Repos\\alaeddinalhamoud\\Students.Services\\Students.Services.csproj",
+      "projectPath": "C:\\Users\\Alaeddin\\Source\\Repos\\StudentAPI\\Students.Services\\Students.Services.csproj",
       "packagesPath": "C:\\Users\\Alaeddin\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Alaeddin\\Source\\Repos\\alaeddinalhamoud\\Students.Services\\obj\\",
+      "outputPath": "C:\\Users\\Alaeddin\\Source\\Repos\\StudentAPI\\Students.Services\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -223,8 +223,8 @@
       "frameworks": {
         "netstandard2.0": {
           "projectReferences": {
-            "C:\\Users\\Alaeddin\\Source\\Repos\\alaeddinalhamoud\\Students.Data\\Students.Data.csproj": {
-              "projectPath": "C:\\Users\\Alaeddin\\Source\\Repos\\alaeddinalhamoud\\Students.Data\\Students.Data.csproj"
+            "C:\\Users\\Alaeddin\\Source\\Repos\\StudentAPI\\Students.Data\\Students.Data.csproj": {
+              "projectPath": "C:\\Users\\Alaeddin\\Source\\Repos\\StudentAPI\\Students.Data\\Students.Data.csproj"
             }
           }
         }

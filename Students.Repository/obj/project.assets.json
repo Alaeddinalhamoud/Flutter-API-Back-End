@@ -2612,11 +2612,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Alaeddin\\Source\\Repos\\alaeddinalhamoud\\Students.Repository\\Students.Repository.csproj",
+      "projectUniqueName": "C:\\Users\\Alaeddin\\Source\\Repos\\StudentAPI\\Students.Repository\\Students.Repository.csproj",
       "projectName": "Students.Repository",
-      "projectPath": "C:\\Users\\Alaeddin\\Source\\Repos\\alaeddinalhamoud\\Students.Repository\\Students.Repository.csproj",
+      "projectPath": "C:\\Users\\Alaeddin\\Source\\Repos\\StudentAPI\\Students.Repository\\Students.Repository.csproj",
       "packagesPath": "C:\\Users\\Alaeddin\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Alaeddin\\Source\\Repos\\alaeddinalhamoud\\Students.Repository\\obj\\",
+      "outputPath": "C:\\Users\\Alaeddin\\Source\\Repos\\StudentAPI\\Students.Repository\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -2635,11 +2635,11 @@
       "frameworks": {
         "netstandard2.0": {
           "projectReferences": {
-            "C:\\Users\\Alaeddin\\Source\\Repos\\alaeddinalhamoud\\Students.Data\\Students.Data.csproj": {
-              "projectPath": "C:\\Users\\Alaeddin\\Source\\Repos\\alaeddinalhamoud\\Students.Data\\Students.Data.csproj"
+            "C:\\Users\\Alaeddin\\Source\\Repos\\StudentAPI\\Students.Data\\Students.Data.csproj": {
+              "projectPath": "C:\\Users\\Alaeddin\\Source\\Repos\\StudentAPI\\Students.Data\\Students.Data.csproj"
             },
-            "C:\\Users\\Alaeddin\\Source\\Repos\\alaeddinalhamoud\\Students.Services\\Students.Services.csproj": {
-              "projectPath": "C:\\Users\\Alaeddin\\Source\\Repos\\alaeddinalhamoud\\Students.Services\\Students.Services.csproj"
+            "C:\\Users\\Alaeddin\\Source\\Repos\\StudentAPI\\Students.Services\\Students.Services.csproj": {
+              "projectPath": "C:\\Users\\Alaeddin\\Source\\Repos\\StudentAPI\\Students.Services\\Students.Services.csproj"
             }
           }
         }
