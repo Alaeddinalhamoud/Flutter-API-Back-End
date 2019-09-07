@@ -92,8 +92,7 @@ namespace Students.Repository
                 Student _Entity = await GetStudent(_Student.Id);
                 _Entity.Id = _Student.Id;
                 _Entity.FirstName = _Student.FirstName;
-                _Entity.LastName = _Student.LastName;
-                _Entity.DOB = _Student.DOB;
+                _Entity.LastName = _Student.LastName;              
                 _Entity.Gender = _Student.Gender;
                 try
                 {

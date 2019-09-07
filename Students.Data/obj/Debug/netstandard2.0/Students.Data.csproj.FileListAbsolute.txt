@@ -15,7 +15,6 @@ C:\Users\Alaeddin\Source\Repos\StudentAPI\Students.Data\bin\Debug\netstandard2.0
 C:\Users\Alaeddin\Source\Repos\StudentAPI\Students.Data\bin\Debug\netstandard2.0\Students.Data.pdb
 C:\Users\Alaeddin\Source\Repos\StudentAPI\Students.Data\bin\Debug\netstandard2.0\System.ComponentModel.Annotations.dll
 C:\Users\Alaeddin\Source\Repos\StudentAPI\Students.Data\bin\Debug\netstandard2.0\System.ComponentModel.Annotations.xml
-C:\Users\Alaeddin\Source\Repos\StudentAPI\Students.Data\obj\Debug\netstandard2.0\Students.Data.csprojAssemblyReference.cache
 C:\Users\Alaeddin\Source\Repos\StudentAPI\Students.Data\obj\Debug\netstandard2.0\Students.Data.csproj.CoreCompileInputs.cache
 C:\Users\Alaeddin\Source\Repos\StudentAPI\Students.Data\obj\Debug\netstandard2.0\Students.Data.AssemblyInfoInputs.cache
 C:\Users\Alaeddin\Source\Repos\StudentAPI\Students.Data\obj\Debug\netstandard2.0\Students.Data.AssemblyInfo.cs
